@@ -1,0 +1,80 @@
+
+body {
+    background-color: lightgray;
+}
+img {
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+}
+.cabecera {
+   border: solid 2px blueviolet;
+}
+.presentacion {
+    font-size: 500;
+    text-align: center;
+    
+}
+
+h2 {
+    text-align: center;
+}
+.profe{
+    text-align: center;
+}
+.fotodeperfil {
+    border-radius: 45%;
+    text-align: center;
+    margin: auto;
+
+
+}
+.lista {
+    list-style: none;
+    text-align: center;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: right;
+    
+}
+nav li {
+    border: solid 2px green;
+}
+nav li a {
+    color: blue;
+}
+.sobreMi {
+    border: solid 2px blue;
+    text-align: center;
+}
+.habilidades {
+    border:solid 2px darkgreen;
+    text-align: center;
+}
+.hobbies {
+    border: solid 2px blue;
+    text-align: center;
+}
+.formacionAcademica {
+    border:solid 2px darkgreen;
+    text-align: center;
+}
+.expProfesional {
+    border: solid 2px blue;
+    text-align: center;
+}
+.formContacto {
+    border:solid 2px darkgreen;
+    text-align: center;
+}
+.rodapie {
+    border: solid 2px blue;
+    text-align: center;
+
+}
